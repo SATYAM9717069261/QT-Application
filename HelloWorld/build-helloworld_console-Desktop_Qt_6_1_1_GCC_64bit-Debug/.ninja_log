@@ -1,0 +1,15 @@
+# ninja log v5
+0	11	1624477856157841910	helloworld_console_autogen/timestamp	61db2b193a330eb6
+11	28	1624477856173842167	CMakeFiles/helloworld_console.dir/helloworld_console_autogen/mocs_compilation.cpp.o	d5b03fb77a3e1009
+11	1227	1624477857373861461	CMakeFiles/helloworld_console.dir/main.cpp.o	702eff3e0326bb30
+1228	1369	1624477857513863711	helloworld_console	7cad5fc27482e818
+1	1135	1624478403663396500	CMakeFiles/helloworld_console.dir/main.cpp.o	702eff3e0326bb30
+1135	1256	1624478403779396745	helloworld_console	7cad5fc27482e818
+0	2	0	CMakeFiles/clean.additional	bc6bb6232770fb56
+2	4	0	clean	74ff37369a62be58
+0	2	0	CMakeFiles/clean.additional	bc6bb6232770fb56
+2	4	0	clean	74ff37369a62be58
+1	9	1624478574368017048	helloworld_console_autogen/timestamp	61db2b193a330eb6
+9	19	1624478574376017088	CMakeFiles/helloworld_console.dir/helloworld_console_autogen/mocs_compilation.cpp.o	d5b03fb77a3e1009
+10	1308	1624478575460022508	CMakeFiles/helloworld_console.dir/main.cpp.o	702eff3e0326bb30
+1308	1435	1624478575792024172	helloworld_console	7cad5fc27482e818

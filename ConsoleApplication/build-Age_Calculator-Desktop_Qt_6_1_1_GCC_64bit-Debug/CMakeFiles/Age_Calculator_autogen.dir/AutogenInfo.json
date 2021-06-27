@@ -1,16 +1,16 @@
 {
-	"BUILD_DIR" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/helloworld_console_autogen",
-	"CMAKE_BINARY_DIR" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/helloworld_console",
+	"BUILD_DIR" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/Age_Calculator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator",
 	"CMAKE_EXECUTABLE" : "/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/satyam/Desktop/Audio/QT-Application/HelloWorld/helloworld_console/CMakeLists.txt",
+		"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator/CMakeLists.txt",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake",
-		"/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/3.19.2/CMakeSystem.cmake",
+		"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/3.19.2/CMakeSystem.cmake",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake",
-		"/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake",
+		"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake",
@@ -92,13 +92,20 @@
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/helloworld_console",
-	"DEP_FILE" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/helloworld_console_autogen/deps",
-	"DEP_FILE_RULE_NAME" : "helloworld_console_autogen/timestamp",
-	"HEADERS" : [],
+	"CMAKE_SOURCE_DIR" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator",
+	"DEP_FILE" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/Age_Calculator_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "Age_Calculator_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator/age_calc.h",
+			"MU",
+			"EWIEGA46WW/moc_age_calc.cpp"
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/helloworld_console_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/helloworld_console_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/Age_Calculator_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/Age_Calculator_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -109,8 +116,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug",
-		"/home/satyam/Desktop/Audio/QT-Application/HelloWorld/helloworld_console",
+		"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug",
+		"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/6.1.1/gcc_64/include/QtCore",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/6.1.1/gcc_64/include",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/6.1.1/gcc_64/mkspecs/linux-g++",
@@ -133,21 +140,25 @@
 		"-c",
 		"/home/satyam/Desktop/Audio/QT-Application/QT-Library/Tools/CMake/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/helloworld_console_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/Age_Calculator_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/helloworld_console_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/Age_Calculator_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/home/satyam/Desktop/Audio/QT-Application/QT-Library/6.1.1/gcc_64/./libexec/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 1,
-	"SETTINGS_FILE" : "/home/satyam/Desktop/Audio/QT-Application/HelloWorld/build-helloworld_console-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/helloworld_console_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/build-Age_Calculator-Desktop_Qt_6_1_1_GCC_64bit-Debug/CMakeFiles/Age_Calculator_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/satyam/Desktop/Audio/QT-Application/HelloWorld/helloworld_console/main.cpp",
+			"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator/age_calc.cpp",
+			"MU"
+		],
+		[
+			"/home/satyam/Desktop/Audio/QT-Application/ConsoleApplication/Age_Calculator/main.cpp",
 			"MU"
 		]
 	],

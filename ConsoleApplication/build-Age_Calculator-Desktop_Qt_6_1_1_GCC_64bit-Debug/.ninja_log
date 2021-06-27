@@ -1,0 +1,18 @@
+# ninja log v5
+1373	1713	1624822901610853379	Age_Calculator	8f300cd7dc1f9741
+0	11	1624822899910868221	Age_Calculator_autogen/timestamp	6a27453b08c3b4a1
+11	1372	1624822901270856294	CMakeFiles/Age_Calculator.dir/main.cpp.o	3ac01323dade5372
+11	46	1624822899946867895	CMakeFiles/Age_Calculator.dir/Age_Calculator_autogen/mocs_compilation.cpp.o	91d1e5764fb7e729
+1	185	1624822974534733525	Age_Calculator_autogen/timestamp	6a27453b08c3b4a1
+186	1317	1624822975666738207	CMakeFiles/Age_Calculator.dir/age_calc.cpp.o	498adc26f56f257a
+185	1336	1624822975686738290	CMakeFiles/Age_Calculator.dir/Age_Calculator_autogen/mocs_compilation.cpp.o	91d1e5764fb7e729
+1336	1462	1624822975810738810	Age_Calculator	373a6db07c21d3fb
+1	103	1624823896584271714	Age_Calculator_autogen/timestamp	6a27453b08c3b4a1
+103	1229	1624823897708292431	CMakeFiles/Age_Calculator.dir/age_calc.cpp.o	498adc26f56f257a
+103	1282	1624823897760293389	CMakeFiles/Age_Calculator.dir/Age_Calculator_autogen/mocs_compilation.cpp.o	91d1e5764fb7e729
+1	1113	1624823956373376623	CMakeFiles/Age_Calculator.dir/main.cpp.o	3ac01323dade5372
+1113	1240	1624823956501378995	Age_Calculator	373a6db07c21d3fb
+0	1112	1624823971781662242	CMakeFiles/Age_Calculator.dir/main.cpp.o	3ac01323dade5372
+1112	1241	1624823971913664690	Age_Calculator	373a6db07c21d3fb
+1	1124	1624824181300117257	CMakeFiles/Age_Calculator.dir/main.cpp.o	3ac01323dade5372
+1124	1251	1624824181424122625	Age_Calculator	373a6db07c21d3fb
